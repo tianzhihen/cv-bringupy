@@ -4,7 +4,7 @@ cv 热身运动
 ## quick start
 `python main.py`
 
-## 具体说明，详见main.py
+具体说明，详见main.py
 
 ## demo效果
 
